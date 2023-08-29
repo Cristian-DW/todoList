@@ -22,7 +22,7 @@ nav {
 main {
   min-height: calc(100vh - 80px);
   background: #e6e6e6;
-  border-radius: 32px 0px 0px 0px;
+  border-radius: 32px  32px  0px  0px;
   padding: 40px;
   display: flex;
 }
