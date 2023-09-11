@@ -105,7 +105,7 @@ main {
 }
 
 .urgent {
-  background: #ff2d11;
+  background: #b71f0b;
   color: white;
 }
 /* Forms */
@@ -163,7 +163,7 @@ nav span {
 }
 .done {
   text-decoration: line-through;
-  color: #a0a0a0;
+  color: #afafaf;
 }
 .task-name p {
   margin-left: 16px;
@@ -193,7 +193,7 @@ nav span {
 .modal-content {
   margin: auto;
   padding: 36px;
-  background-color: white;
+  background-color: rgb(243, 243, 243);
 }
 
 
