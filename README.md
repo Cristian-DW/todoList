@@ -3,10 +3,8 @@
 
 
 ## Capturas de Pantalla
-<img align="center" width="1000" src="" />
-<img align="center" width="1000" src="" />
-<img align="center" width="1000" src="" />
-
+<img align="center" width="500" src="https://github.com/Cristian-DW/layout/blob/main/todoone.JPG" />
+<img align="center" width="200" src="https://github.com/Cristian-DW/layout/blob/main/todotwo.JPG" />
 ## Tecnologías Utilizadas
 
 - HTML
